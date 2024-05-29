@@ -7,7 +7,7 @@ Non posso ovviamente eseguire nessun programma, ma ho voluto lo stesso mettere i
 funziona
 
 Per eseguire il programma da windows wsl, scaricate il codice   script_conversione.py
-Mettete uno o cento files .xslx nella stessa directory dello script.
+Mettete uno o cento files .docx nella stessa directory dello script.
 Aprite una shell e scrivete 
             python script_conversione.py
 il programma dovrebbe installare automaticamente le dipendenze
